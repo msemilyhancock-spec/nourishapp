@@ -1,0 +1,15 @@
+{
+  "name": "nourish",
+  "short_name": "nourish",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F4F9FB",
+  "theme_color": "#0D9BA8",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect width='180' height='180' rx='40' fill='%230D9BA8'/><text x='90' y='115' font-family='serif' font-size='70' font-weight='700' fill='white' text-anchor='middle'>n</text></svg>",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ]
+}
